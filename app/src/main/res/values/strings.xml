@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GraphicExample</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="bgstring">This is just a textview with a nice background image. When you click the button below, the background will change</string>
+</resources>

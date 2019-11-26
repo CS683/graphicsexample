@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="edu.bu.myserviceasynexample.MainActivity">
+
+    <item android:id = "@+id/animation"
+        android:title="Animation Example" />
+    <item android:id = "@+id/canvas"
+        android:title="Canvas Example" />
+
+</menu>
